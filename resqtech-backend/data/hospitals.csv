@@ -1,0 +1,8 @@
+code,name,location_code,lat,lon,beds_total,beds_free,icu_free
+H1,Civil Hospital Asarwa,ahd,23.05,72.61,1200,184,22
+H2,SVP Hospital,ahd,23.03,72.58,750,96,11
+H3,New Civil Surat,srt,21.19,72.84,900,47,4
+H4,SSG Vadodara,vdr,22.32,73.18,800,143,16
+H5,Valsad District Hospital,vlv,20.6,72.94,300,38,3
+H6,Ahwa Referral Centre,dng,20.74,73.68,80,9,0
+H7,GG Hospital Jamnagar,jmn,22.46,70.06,640,211,19

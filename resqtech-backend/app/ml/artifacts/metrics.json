@@ -1,0 +1,30 @@
+{
+  "flood": {
+    "positive_rate": 0.2093,
+    "roc_auc_oof": 0.7192,
+    "brier_oof": 0.1461,
+    "n_rows": 6000
+  },
+  "landslide": {
+    "positive_rate": 0.0335,
+    "roc_auc_oof": 0.7803,
+    "brier_oof": 0.0288,
+    "n_rows": 6000
+  },
+  "cyclone": {
+    "positive_rate": 0.067,
+    "roc_auc_oof": 0.6981,
+    "brier_oof": 0.0577,
+    "n_rows": 6000
+  },
+  "rainfall": {
+    "positive_rate": 0.0833,
+    "roc_auc_oof": 0.678,
+    "brier_oof": 0.0726,
+    "n_rows": 6000
+  },
+  "mean_brier": 0.0763,
+  "trained_at": "2026-09-19T05:11:47.548106+00:00",
+  "version": "0.4.0",
+  "label_provenance": "SYNTHETIC. Labels come from scripts/generate_training_data.py, not from observed disaster records. These scores measure how well the model recovers that generator and say nothing about real forecasting skill. Retrain on IMD/CWC/NDMA historical data before making any accuracy claim."
+}

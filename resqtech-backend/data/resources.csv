@@ -1,0 +1,13 @@
+code,resource_type,unit,total_qty,available_qty,location_code,lat,lon,status,priority
+R1,Ambulance,units,64,41,ahd,23.02,72.6,ready,high
+R2,Rescue boat,boats,38,12,srt,21.18,72.83,deployed,critical
+R3,NDRF team,teams,14,5,srt,21.16,72.86,deployed,critical
+R4,SDRF team,teams,22,9,ahd,23.06,72.55,ready,high
+R5,Water tanker,tankers,90,57,vdr,22.31,73.19,ready,medium
+R6,Medical kit,kits,4200,2680,ahd,23.01,72.63,stocked,high
+R7,Food packet,packets,52000,31400,vdr,22.29,73.21,stocked,medium
+R8,High-mast light,units,48,33,bvn,21.75,72.15,ready,low
+R9,Heavy excavator,units,17,6,dng,20.77,73.66,deployed,high
+R10,Rescue boat,boats,20,14,vlv,20.63,72.92,ready,high
+R11,Ambulance,units,28,7,srt,21.2,72.81,deployed,critical
+R12,Satellite phone,sets,60,44,bhu,23.23,69.67,ready,medium

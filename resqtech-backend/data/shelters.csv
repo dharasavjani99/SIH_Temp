@@ -1,0 +1,13 @@
+code,name,location_code,lat,lon,capacity,occupancy,facilities
+S1,Nikol Community Shelter,ahd,23.05,72.66,500,328,Food|Water|Medical|Power|Sanitation
+S2,Vasna Municipal School,ahd,22.99,72.55,340,311,Food|Water|Power
+S3,Sabarmati Relief Camp,ahd,23.1,72.58,800,402,Food|Water|Medical|Power|Sanitation|Livestock
+S4,Udhna Town Hall,srt,21.15,72.85,620,588,Food|Water|Medical
+S5,Rander Flood Shelter,srt,21.22,72.79,450,167,Food|Water|Power|Sanitation
+S6,Valsad Cyclone Shelter,vlv,20.62,72.93,700,245,Food|Water|Medical|Power
+S7,Ahwa Tribal Welfare Hall,dng,20.76,73.69,220,198,Food|Water
+S8,Porbandar Coastal Shelter,pbn,21.63,69.62,900,311,Food|Water|Medical|Power|Sanitation
+S9,Bhuj District Camp,bhu,23.25,69.68,400,96,Food|Water|Power
+S10,Navsari Grain Market Camp,nvs,20.94,72.93,380,352,Food|Water|Medical
+S11,Bhavnagar Sports Complex,bvn,21.77,72.14,560,120,Food|Water|Medical|Power|Sanitation
+S12,Vadodara Exhibition Ground,vdr,22.3,73.2,650,274,Food|Water|Power

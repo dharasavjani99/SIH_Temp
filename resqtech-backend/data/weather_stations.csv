@@ -1,0 +1,6 @@
+code,name,location_code,lat,lon,rain_6h_mm,trend
+W1,Ahmedabad AWS,ahd,23.07,72.63,96,rising
+W2,Surat AWS,srt,21.21,72.88,104,rising
+W3,Saputara AWS,dng,20.77,73.7,131,steady
+W4,Porbandar AWS,pbn,21.66,69.58,72,rising
+W5,Bhuj AWS,bhu,23.27,69.7,14,falling

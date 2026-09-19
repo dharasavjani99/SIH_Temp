@@ -1,0 +1,5 @@
+email,full_name,role,password,district_code
+admin@resqtech.gov.in,R. Mehta,admin,demo1234,
+desk2@gsdma.gov.in,GSDMA Desk 2,dma,demo1234,
+ndrf6@resqtech.gov.in,NDRF 6th Bn,responder,demo1234,srt
+citizen@resqtech.in,Citizen View,public,demo1234,ahd

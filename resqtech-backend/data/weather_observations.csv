@@ -1,0 +1,13 @@
+location_code,rain_6h_mm,rain_24h_mm,temp_c,humidity_pct,wind_kmh,river_level_m,source,is_live
+ahd,96,214,27.4,93,42,7.9,demo-seed,0
+srt,104,238,28.1,95,55,9.1,demo-seed,0
+vdr,61,158,27.9,88,31,6.4,demo-seed,0
+rjk,28,86,29.6,71,26,4.2,demo-seed,0
+jmn,44,112,29.1,84,68,3.8,demo-seed,0
+bhu,14,48,31.2,58,74,2.1,demo-seed,0
+pbn,72,167,28.4,92,86,4.9,demo-seed,0
+vlv,118,263,27.2,96,49,6.8,demo-seed,0
+dng,131,291,22.8,97,34,5.2,demo-seed,0
+bvn,52,134,28.8,87,58,5.6,demo-seed,0
+pat,19,63,30.4,64,22,2.9,demo-seed,0
+nvs,109,246,27.5,95,46,7.1,demo-seed,0

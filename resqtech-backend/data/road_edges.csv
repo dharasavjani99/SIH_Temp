@@ -1,0 +1,18 @@
+name,from_node,to_node,condition,hazard_score
+Vasna Rd,n1,n2,flooded,0.82
+Naroda Rd,n1,n3,open,0.18
+NH-48 north,n1,n4,open,0.24
+SP Ring Rd,n2,n4,open,0.35
+NH-48,n4,n5,open,0.22
+Nikol link,n3,n4,congested,0.41
+NH-48 south,n5,n6,open,0.3
+Kim corridor,n6,n7,congested,0.58
+SH-6,n5,n11,open,0.26
+Coastal link,n11,n6,open,0.33
+Tapi south bank,n7,n8,flooded,0.88
+Kosamba detour,n6,n8,open,0.44
+NH-48 Valsad,n8,n9,open,0.37
+Saputara ghat rd,n8,n10,landslide,0.91
+Waghai forest rd,n9,n10,congested,0.62
+SH-24,n12,n11,open,0.19
+NH-27,n12,n1,open,0.21

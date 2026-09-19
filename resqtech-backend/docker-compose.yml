@@ -1,0 +1,30 @@
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: resqtech
+      POSTGRES_PASSWORD: resqtech
+      POSTGRES_DB: resqtech
+    ports: ["5432:5432"]
+    volumes: ["pgdata:/var/lib/postgresql/data"]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U resqtech"]
+      interval: 5s
+      retries: 10
+
+  api:
+    build: .
+    depends_on:
+      db: {condition: service_healthy}
+    environment:
+      DATABASE_URL: postgresql+psycopg://resqtech:resqtech@db:5432/resqtech
+      JWT_SECRET: dev-only-secret-change-me
+      CORS_ORIGINS: http://localhost:5173
+      DATA_MODE: demo
+    ports: ["8000:8000"]
+    command: >
+      sh -c "python scripts/seed_db.py &&
+             uvicorn app.main:app --host 0.0.0.0 --port 8000"
+
+volumes:
+  pgdata:

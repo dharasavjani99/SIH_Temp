@@ -1,0 +1,9 @@
+service,number,scope,sort_order
+State Emergency Operations Centre,1070,state,1
+"District control room, Ahmedabad",1077,district,2
+Ambulance,108,national,3
+Police,100,national,4
+Fire & rescue,101,national,5
+NDRF regional response,011-24363260,national,6
+Coast Guard,1554,national,7
+Unified emergency helpline,112,national,8

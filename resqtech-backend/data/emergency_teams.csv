@@ -1,0 +1,6 @@
+code,name,force,members,lat,lon,state,current_task
+T1,NDRF 6th Bn — Alpha,NDRF,32,21.17,72.84,on_task,"Swift-water rescue, Udhna"
+T2,SDRF Ahmedabad — 2,SDRF,24,23.04,72.57,on_task,Sabarmati embankment watch
+T3,NDRF 6th Bn — Bravo,NDRF,30,20.62,72.93,standby,"Standby, Valsad"
+T4,Fire & Rescue Dang,Fire,14,20.75,73.68,on_task,"Landslide clearance, Saputara ghat"
+T5,Coast Guard Porbandar,ICG,18,21.64,69.61,on_task,Fishing fleet recall

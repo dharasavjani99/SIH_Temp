@@ -1,0 +1,13 @@
+code,name,state,lat,lon,population,exposure_band_population,elevation_m,slope_deg,soil_moisture_index,river_name,river_danger_m,coastal,access_index,hospital_count,school_count,elderly_share,child_share
+ahd,Ahmedabad,Gujarat,23.03,72.58,8253000,186000,53,2,0.71,Sabarmati,8.5,0,0.86,12,41,0.081,0.216
+srt,Surat,Gujarat,21.17,72.83,6081000,142000,13,1,0.78,Tapi,9.4,1,0.82,9,33,0.069,0.231
+vdr,Vadodara,Gujarat,22.31,73.19,2065000,61000,39,2,0.62,Vishwamitri,8.0,0,0.88,7,22,0.078,0.208
+rjk,Rajkot,Gujarat,22.3,70.8,1390000,34000,134,3,0.44,Aji,7.2,0,0.9,6,18,0.083,0.205
+jmn,Jamnagar,Gujarat,22.47,70.07,600000,21000,20,2,0.51,Rangmati,6.5,1,0.74,4,11,0.077,0.214
+bhu,Bhuj,Gujarat,23.24,69.67,213000,15400,110,4,0.28,Rukmavati,5.8,1,0.52,3,8,0.09,0.198
+pbn,Porbandar,Gujarat,21.64,69.61,234000,19800,8,1,0.55,Bhadar,6.2,1,0.63,3,9,0.086,0.209
+vlv,Valsad,Gujarat,20.61,72.93,170000,28600,12,2,0.81,Auranga,7.0,1,0.69,2,10,0.072,0.236
+dng,Dang,Gujarat,20.75,73.68,228000,24100,975,27,0.86,Purna,6.4,0,0.34,1,12,0.094,0.248
+bvn,Bhavnagar,Gujarat,21.76,72.15,605000,26500,24,2,0.58,Shetrunji,7.4,1,0.79,4,13,0.081,0.211
+pat,Patan,Gujarat,23.85,72.13,133000,9200,70,1,0.39,Saraswati,6.0,0,0.71,2,7,0.088,0.219
+nvs,Navsari,Gujarat,20.95,72.92,171000,22400,11,1,0.79,Purna,7.3,1,0.72,2,9,0.075,0.229

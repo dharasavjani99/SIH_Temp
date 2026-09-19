@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.env
+*.db
+.venv/
+venv/
+.pytest_cache/
+app/ml/artifacts/*.joblib
+app/dl/artifacts/*.pt
+!app/ml/artifacts/.gitkeep
+!app/dl/artifacts/.gitkeep
+.DS_Store
